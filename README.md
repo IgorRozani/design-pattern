@@ -1,8 +1,8 @@
 # Design pattern examples in C#
 
 ## Creational
-- [ ] Singleton
-- [ ] Factory
+- [x] Singleton
+- [x] Factory
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
