@@ -4,7 +4,7 @@
 - [x] Singleton
 - [x] Factory
 - [x] Abstract Factory
-- [ ] Builder
+- [x] Builder
 - [ ] Prototype
 
 ## Structural
