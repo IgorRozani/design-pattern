@@ -5,7 +5,7 @@
 - [x] Factory
 - [x] Abstract Factory
 - [x] Builder
-- [ ] Prototype
+- [x] Prototype
 
 ## Structural
 - [ ] Adapter
